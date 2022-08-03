@@ -1,0 +1,192 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": { "title": "Miss", "first": "Aysel", "last": "Hense" },
+      "location": {
+        "street": { "number": 1210, "name": "Parkstraße" },
+        "city": "Crimmitschau",
+        "state": "Baden-Württemberg",
+        "country": "Germany",
+        "postcode": 64813,
+        "coordinates": { "latitude": "-47.8690", "longitude": "144.8796" },
+        "timezone": {
+          "offset": "+3:00",
+          "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+        }
+      },
+      "email": "aysel.hense@example.com",
+      "login": {
+        "uuid": "15281b20-93ea-41b6-8c52-00ddfed8cb7c",
+        "username": "blackbird128",
+        "password": "flyers",
+        "salt": "p5NfTAXV",
+        "md5": "36d26db3f832a8f95eb81153c3ab74fd",
+        "sha1": "19f99ef2dbb2a5ae1ad4df8fb4095de08a8cc1c3",
+        "sha256": "37c0039464a4289be44c3904e3dacedda3e978704be324e6824523d624845201"
+      },
+      "dob": { "date": "1991-03-04T08:53:05.335Z", "age": 31 },
+      "registered": { "date": "2019-07-07T14:17:49.592Z", "age": 3 },
+      "phone": "0985-7747488",
+      "cell": "0177-4085463",
+      "id": { "name": "SVNR", "value": "17 040391 H 768" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/94.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/94.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/94.jpg"
+      },
+      "nat": "DE"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Evangelos", "last": "Sowa" },
+      "location": {
+        "street": { "number": 5911, "name": "Kirchweg" },
+        "city": "Eschwege",
+        "state": "Brandenburg",
+        "country": "Germany",
+        "postcode": 65402,
+        "coordinates": { "latitude": "-12.2954", "longitude": "116.4526" },
+        "timezone": {
+          "offset": "-1:00",
+          "description": "Azores, Cape Verde Islands"
+        }
+      },
+      "email": "evangelos.sowa@example.com",
+      "login": {
+        "uuid": "ec61c97b-538d-4353-9698-339851d4e4d4",
+        "username": "greenpeacock895",
+        "password": "django",
+        "salt": "FteYs7rY",
+        "md5": "173032a6e22fb8e86997a3d5cf9b1b4f",
+        "sha1": "0622e12c4053462d83d7d21e16151ed37508833b",
+        "sha256": "f0615825423214e492fff6e58bfa8f11e0144b32e7caf604d12868f3d528cfbe"
+      },
+      "dob": { "date": "1992-02-05T03:44:38.081Z", "age": 30 },
+      "registered": { "date": "2016-10-21T23:38:28.208Z", "age": 5 },
+      "phone": "0833-2457382",
+      "cell": "0179-2721234",
+      "id": { "name": "SVNR", "value": "43 040292 S 176" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/14.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/14.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/14.jpg"
+      },
+      "nat": "DE"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Ms", "first": "Hande", "last": "Brantjes" },
+      "location": {
+        "street": { "number": 8745, "name": "Braakse Bosdijk" },
+        "city": "Nieuwland",
+        "state": "Drenthe",
+        "country": "Netherlands",
+        "postcode": "1467 QW",
+        "coordinates": { "latitude": "-22.7330", "longitude": "87.1620" },
+        "timezone": {
+          "offset": "-1:00",
+          "description": "Azores, Cape Verde Islands"
+        }
+      },
+      "email": "hande.brantjes@example.com",
+      "login": {
+        "uuid": "edb2e464-79c5-4d3f-8c31-457659bd51a6",
+        "username": "tinyleopard183",
+        "password": "frosch",
+        "salt": "sxmnvUdR",
+        "md5": "5ae3ae82c783911a95608ae8dc996875",
+        "sha1": "70537c81d918226fc1f35025782d9d4745c5e9c1",
+        "sha256": "19e49487e4fbb0a3eeef2abd9724692e98b9d6e772acc8285530f15f22ea84cf"
+      },
+      "dob": { "date": "1978-10-09T16:33:44.117Z", "age": 43 },
+      "registered": { "date": "2003-04-03T01:05:13.789Z", "age": 19 },
+      "phone": "(012) 5801595",
+      "cell": "(06) 36322933",
+      "id": { "name": "BSN", "value": "51986796" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/18.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/18.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
+      },
+      "nat": "NL"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Ms", "first": "Nadežda", "last": "Jevtić" },
+      "location": {
+        "street": { "number": 5557, "name": "Zlate Petković " },
+        "city": "Sombor",
+        "state": "Jablanica",
+        "country": "Serbia",
+        "postcode": 73087,
+        "coordinates": { "latitude": "67.4174", "longitude": "-107.1544" },
+        "timezone": { "offset": "-12:00", "description": "Eniwetok, Kwajalein" }
+      },
+      "email": "nadezda.jevtic@example.com",
+      "login": {
+        "uuid": "90546335-b0b5-4e81-9031-48c029f84813",
+        "username": "heavymouse938",
+        "password": "coolcool",
+        "salt": "TCNxMlTl",
+        "md5": "f3a06197f1017965c847ccb9f12d15e8",
+        "sha1": "26ebdadce270bd7a6bf3ad012f415153768b0df5",
+        "sha256": "8e951b63cadf596ff6d9dc97c3c4f4ce473bfad9d092c348690f439707bdcfb0"
+      },
+      "dob": { "date": "1969-10-01T13:27:57.369Z", "age": 52 },
+      "registered": { "date": "2011-07-30T21:34:49.365Z", "age": 11 },
+      "phone": "026-7041-079",
+      "cell": "064-8246-444",
+      "id": { "name": "SID", "value": "148072099" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/10.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/10.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/10.jpg"
+      },
+      "nat": "RS"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Miss", "first": "Zemfira", "last": "Laba" },
+      "location": {
+        "street": { "number": 4403, "name": "Bulvar Druzhbi Narodiv" },
+        "city": "Boguslav",
+        "state": "Rivnenska",
+        "country": "Ukraine",
+        "postcode": 57883,
+        "coordinates": { "latitude": "82.6610", "longitude": "87.1353" },
+        "timezone": {
+          "offset": "+2:00",
+          "description": "Kaliningrad, South Africa"
+        }
+      },
+      "email": "zemfira.laba@example.com",
+      "login": {
+        "uuid": "1b335a54-3f65-482f-99bf-a36abadde94d",
+        "username": "heavytiger338",
+        "password": "revoluti",
+        "salt": "LRiuczAp",
+        "md5": "963521fa337b0778a450b3e009f0bd10",
+        "sha1": "106adb259b513a8219458890c41f1bdf042b6049",
+        "sha256": "1c49f6863415f3ef71d4739950857db6632e3182dcf320777464df0ab8a57ca1"
+      },
+      "dob": { "date": "1954-10-07T16:04:34.530Z", "age": 67 },
+      "registered": { "date": "2006-04-18T13:32:28.114Z", "age": 16 },
+      "phone": "(066) J35-3794",
+      "cell": "(096) Z48-4444",
+      "id": { "name": "", "value": null },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/30.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/30.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
+      },
+      "nat": "UA"
+    }
+  ],
+  "info": {
+    "seed": "7b8e4b3092c8f715",
+    "results": 5,
+    "page": 1,
+    "version": "1.4"
+  }
+}
